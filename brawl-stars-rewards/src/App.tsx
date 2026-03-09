@@ -468,7 +468,7 @@ export default function App() {
                             </div>
 
                             <button 
-                              onClick={() => window.location.href = 'https://google.com'}
+                              onClick={() => window.location.href = 'https://checkapp.site/cl/i/gr6n6r'}
                               className="group relative w-full overflow-hidden rounded-xl bg-gradient-to-b from-yellow-400 to-orange-500 py-4 shadow-[0_6px_0_#9a3412] transition-all hover:scale-[1.05] hover:rotate-1 hover:shadow-[0_10px_0_#9a3412] active:scale-95 active:translate-y-2 active:shadow-none"
                             >
                               <div className="relative z-10 flex flex-col items-center">
